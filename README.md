@@ -31,4 +31,4 @@ If you want to use markdown, check out this [cheat sheet](https://github.com/sk1
 
 ## Including screenshots, other images
 
-To include a screenshot or image, place the image file right next to the `README.md` file in this folder. Then, in the `README.md` file, write first and exclamation point, then a short description of your image in square brackets, then the file name of the image in parentheses directly after the square brackets. Like this: `![my screenshot](screenshot-map-1.png)`.
+To include a screenshot or image, place the image file right next to the `README.md` file in this folder. Then, in the `README.md` file, write first and exclamation point, then a short description of your image in square brackets, then the file name of the image in parentheses directly after the square brackets. Like this: `![my screenshot](screenshot1.png)`.
