@@ -24,7 +24,7 @@ The `README.md` file is written in a coding language called "Markdown", which Gi
 
 For example, writing a line with a single `#` at the start makes that line into a header, like at the top of the page, and double asterisks around words ( ** ) make the words bold,. Another example: putting text between back ticks ( ` ) makes the text into a different font and highlights the text in gray, which usually says to the reader, "This text is computer code."
 
-If you want to use markdown, check out this [cheat sheet](https://github.com/sk1418/markdown-cheatsheet), but if not, just follow the steps above and type normally in the `README.md`, it's all good!
+If you want to use Markdown, check out this [cheat sheet](https://github.com/sk1418/markdown-cheatsheet), but if not, just follow the steps above and type normally in the `README.md`, it's all good!
 
 ## Including screenshots, other images
 
