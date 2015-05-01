@@ -11,7 +11,7 @@ This is where you should write about the campus map problem you addressed, the w
 2. Uncompress the zipped file, then open the folder, then open the `README.md` file (that's this one).
 3. Replace the words `Designing a campus web map` on the first line of this file with a title for your individual project.
 4. Change `Aaron Dennis` on the second line to your name.
-5. At the *very least*, copy and paste the final written assignment you turned in to Cindy below the line with your name, replacing all other text.
+5. At the *very least*, copy and paste the final written assignment you submitted to Cindy into this `README.md`, replacing all other text below the line with your name.
 6. **Copy clean versions of all the important files you've created for this project into the uncompressed folder, putting them right next to the `README.md`. It's especially important to include data files.** Include any code you wrote in text files. Also include `.tm2` folders for Mapbox Studio style projects, `.tm2source` folders for and vector tile sources you created, **pdf or powerpoint versions of your final presentations**, and any image files or patterns.
 7. Try and explain **each of the files** you added to the folder by writing about them in this `README.md`. It would be really great if you included links/urls to tutorials, documentation, or blog posts you used.
 8. Change the name of the folder from `sample-final-submission` to `your-name` (all lowercase and hyphenated), zip or compress it into a single file, and then email it to me, aaron.p.dennis@gmail.com.
