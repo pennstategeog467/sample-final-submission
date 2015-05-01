@@ -23,7 +23,7 @@ This is where you should write about the problem you addressed, the work that yo
 
 Future GEOG 467 students will be reading this to decide if they want to continue working on your project, so the better you document everything you did here, the more likely they are to finish your work.
 
-The `README.md` file is written in a coding language called "Markdown". You really don't have to worry about this, but it's just a way to make documents more readable by allowing you to include headers, lists, code snippets, etc. **Edit this file in a text editor.**
+The `README.md` file is written in a coding language called "Markdown", which GitHub then renders all pretty right below your reporsitory. You really don't have to worry about this, but it's just a way to make documents more readable by allowing you to include headers, lists, code snippets, etc. **Edit this file in a text editor.**
 
 For example, writing a line with a single `#` at the start makes that line into a header, like at the top of the page, and double asterisks around words ( ** ) make the words bold,. Another example: putting text between back ticks ( ` ) makes it into a different font and highlights the text in gray, which usually says to the reader, "This text is computer code."
 
@@ -31,4 +31,7 @@ If you want to use markdown, check out this [cheat sheet](https://github.com/sk1
 
 ## Including screenshots, other images
 
-To include a screenshot or image, place the image file right next to the `README.md` file in this folder. Then, in the `README.md` file, write first and exclamation point, then a short description of your image in square brackets, then the file name of the image in parentheses directly after the square brackets. Like this: `![my screenshot](screenshot1.png)`.
+To include a screenshot or image, place the image file right next to the `README.md` file in this folder. Then, in the `README.md` file, write first and exclamation point, then a short description of your image in square brackets, then the file name of the image in parentheses directly after the square brackets. Like this: `![my screenshot](screenshot1.png)`. That bit of text then gets replaced with your picture once it's uploaded to GitHub.
+
+
+**Thank you for all your hard work this year. It's been very rewarding to see all that we've created. As always, if you have any questions, just let me know! (or create a new Issue on this repository with the button over on the right)**
