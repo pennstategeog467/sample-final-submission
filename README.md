@@ -34,4 +34,4 @@ If you want to use markdown, check out this [cheat sheet](https://github.com/sk1
 To include a screenshot or image, place the image file right next to the `README.md` file in this folder. Then, in the `README.md` file, write first and exclamation point, then a short description of your image in square brackets, then the file name of the image in parentheses directly after the square brackets. Like this: `![my screenshot](screenshot1.png)`. That bit of text then gets replaced with your picture once it's uploaded to GitHub.
 
 
-**Thank you for all your hard work this year. It's been very rewarding to see all that we've created. As always, if you have any questions, just let me know! (or create a new Issue on this repository with the button over on the right)**
+**Thank you for all your hard work this year! It's been very rewarding to see all that we've created. As always, if you have any questions, just let me know!** (or create a new Issue on this repository with the button over on the right)
