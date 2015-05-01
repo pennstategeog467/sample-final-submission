@@ -15,6 +15,6 @@ This is where you should write about the problem you addressed, the work that yo
 4. Change `Aaron Dennis` on line 4 to your name.
 5. At the *very least*, copy and paste the final written assignment you turned in to Cindy below the line with your name, replacing all other text.
 6. Delete the first line about this being an example template.
-7. Change the name of the folder from `sample-final-submission` to `your-name` (all lowercase and hyphenated), zip or compress it into a single file, and then email it to my email aaron.p.dennis@gmail.com
+7. Change the name of the folder from `sample-final-submission` to `your-name` (all lowercase and hyphenated), zip or compress it into a single file, and then email it to my email, aaron.p.dennis@gmail.com.
 
 It's written in a coding language called "Markdown". I can hear the groans so don't feel you need to worry about it
