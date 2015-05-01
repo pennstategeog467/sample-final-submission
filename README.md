@@ -21,6 +21,6 @@ This is where you should write about the problem you addressed, the work that yo
 
 The `README.md` file is written in a coding language called "Markdown". You really don't have to worry about this, but it's just a way to make documents more readable by allowing you to include headers, lists, code snippets, etc.
 
-For example, writing a line with a single `#` at the start makes that line into a header, like at the top of the page. Another example: putting text between ````'s makes them into a different font and heighlighted in gray, which usually means it's an example of code.
+For example, writing a line with a single `#` at the start makes that line into a header, like at the top of the page. Another example: putting text between back ticks ( ` ) makes them into a different font and heighlighted in gray, which usually means it's an example of code.
 
 If you want to use markdown, check out this [cheat sheet](https://github.com/sk1418/markdown-cheatsheet), but if not, just type follow the steps above and type normally, it's all good!
