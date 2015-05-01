@@ -22,7 +22,7 @@ Future GEOG 467 students will be reading this to decide if they want to continue
 
 The `README.md` file is written in a coding language called "Markdown", which GitHub then renders all pretty directly below your repository. You really don't have to worry about this, but it's just a way to make documents more readable by allowing you to include headers, lists, code snippets, etc. **Edit this file in a text editor.**
 
-For example, writing a line with a single `#` at the start makes that line into a header, like at the top of the page, and double asterisks around words ( ** ) make the words bold,. Another example: putting text between back ticks ( ` ) makes the text into a different font and highlights the text in gray, which usually says to the reader, "This text is computer code."
+For example, writing a line with a single `#` at the start makes that line into a header, like at the top of the page, and double asterisks around words ( ** ) makes the words bold,. Another example: putting text between back ticks ( ` ) makes the text into a different font and highlights the text in gray, which usually says to the reader, "This text is computer code."
 
 If you want to use Markdown, check out this [cheat sheet](https://github.com/sk1418/markdown-cheatsheet), but if not, just follow the steps above and type normally in the `README.md`, it's all good!
 
