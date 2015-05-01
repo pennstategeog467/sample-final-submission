@@ -1,7 +1,7 @@
 `example README.md file explaining files, project, issues, and future work. delete this line and edit everything below.`
 
 # Project: Designing a campus web map
-Aaron Dennis
+*Student Name:* Aaron Dennis
 
 This is a template for the final submission of all the work you've done on your individual projects in GEOG 467. Right now, you're reading the `README.md` file, which is supposed to explain all the other stuff in the repository/folder.
 
